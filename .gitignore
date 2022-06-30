@@ -1,6 +1,6 @@
-/.DS_Store
-/*.png_backup
-/*.html_old
-/tmp
-
+*DS_Store
+*_backup
+*_old
+/tmp/
+*Thumbs.db
 
